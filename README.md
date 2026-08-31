@@ -8,8 +8,9 @@ Diego Perez Marciano <diegopmarciano@gmail.com>
 
 # Configuração do ambiente
 
-Instlação de aplicações necessárias:
+Instalação de aplicações necessárias:
 
+- Linux (Ubuntu)
 - Apache 2
 - Php
 - MySQL
@@ -18,9 +19,9 @@ Instlação de aplicações necessárias:
 
 Arquivos deste repositório:
 
-- README.md: este arquivo
-- schema.sql: arquivo de carga do banco de dados mySQL
-- www: pasta com arquivos do servidor web
+- **README.md**: este arquivo
+- **schema.sql**: arquivo de carga do banco de dados mySQL
+- **www**: pasta com arquivos do servidor web
 
 # Observações
 
